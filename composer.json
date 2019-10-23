@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DevFarm\\FilesUploaderBundle": "src/"
+            "DevFarm\\FilesUploaderBundle\\": "src/"
         }
     },
     "autoload-dev": {
